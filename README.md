@@ -4,7 +4,7 @@ Visual Studio Fortran project  covering:
 0) Install Microsoft Visual Studio and Intel Fortran compiler. A detailed installation process is covered in the book: 
    - Programming with Visual Studio: Python,  C++, Fortran. Ed. Amazon
    
-1) click semerter1.rar
+1) click semester1.rar
 2) download semester1 in any folder. 
 3) unzip semester1.rar 
 4) open semester1.sln with Visual Studio
