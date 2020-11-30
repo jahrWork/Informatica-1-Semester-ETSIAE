@@ -4,7 +4,7 @@ Visual Studio Fortran project  covering:
 0) Install Microsoft Visual Studio and Intel Fortran compiler. A detailed installation process is covered in the book: 
    - Programming with Visual Studio: Python,  C++, Fortran. Ed. Amazon
    
-1) download and unzip Informatica-1-Semester-ETSIAE-master.zip
+1) code/download and unzip Informatica-1-Semester-ETSIAE-master.zip
 2) unzip fortran_preliminaries.zip in any folder. 
 3) Open fortran_preliminaries folder
 4) open fortran_preliminaries.sln with Visual Studio
